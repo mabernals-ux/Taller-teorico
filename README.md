@@ -1,4 +1,5 @@
-**TALLER**
+
+**TALLER TEÓRICO**
 
 Maria Alejandra Bernal Salazar 
 Codigó: 55622019
