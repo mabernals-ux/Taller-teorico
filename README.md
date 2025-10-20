@@ -1,4 +1,4 @@
-<center>TALLER</center>
+**TALLER**
 
 Maria Alejandra Bernal Salazar 
 Codigó: 55622019
